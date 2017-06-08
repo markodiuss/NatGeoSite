@@ -1,0 +1,19 @@
+.logo {
+	width: 162px;
+	height: 48px;
+	/*background: url(../images/bg-logo-header.png) no-repeat;*/
+}
+	
+	.logo img {
+		width: 100%;
+	}
+
+	.logo>a {
+		display: block;
+		height: 100%;
+	}
+
+.container {
+	width: 960px;
+	margin:0 auto;
+}
